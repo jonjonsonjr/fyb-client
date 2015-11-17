@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FYB</string>
+    <string name="client_name">Client Name</string>
+    <string name="register_button">Register</string>
+    <string name="logout_button">Logout</string>
+
+</resources>
